@@ -9,7 +9,8 @@ comments: true
 On Tuesday 24th Aug 2021 at 11:30 AM, we set up our double diagonal spread for september 2021 series. At that time, BNF was trading at 35450. From there, it was just Bulls who ran the market, and BNF closed at 35712.
 Our trades looked like this at the closing of the day.
 
-![dd_status_aug_24_2021](../assets/img/dd_status_aug_24_2021.jpeg)
+<!-- ![dd_status_aug_24_2021](../assets/img/dd_status_aug_24_2021.jpeg) -->
+<img src="../assets/img/dd_status_aug_24_2021.jpeg" width="200"/>
 
 The payoff graph looked like this.
 
