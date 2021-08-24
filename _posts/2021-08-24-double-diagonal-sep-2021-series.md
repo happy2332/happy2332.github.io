@@ -10,7 +10,7 @@ On Tuesday 24th Aug 2021 at 11:30 AM, we set up our double diagonal spread for s
 Our trades looked like this at the closing of the day.
 
 <!-- ![dd_status_aug_24_2021](../assets/img/dd_status_aug_24_2021.jpeg) -->
-<img src="../assets/img/dd_status_aug_24_2021.jpeg" width="200%"/>{: .mx-auto.d-block :}
+<img src="../assets/img/dd_status_aug_24_2021.jpeg" width="200px"/>{: .mx-auto.d-block :}
 
 The payoff graph looked like this.
 
