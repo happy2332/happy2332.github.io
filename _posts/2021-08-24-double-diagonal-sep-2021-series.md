@@ -14,6 +14,6 @@ Our trades looked like this at the closing of the day.
 
 The payoff graph looked like this.
 
-![dd_payoff_aug_24_2021](../assets/img/dd_payoff_aug_24_2021.jpeg)
+<p style="text-align:center;"><img src="../assets/img/dd_payoff_aug_24_2021.jpeg" width="400px"/></p>
 
 The breakevens are still far, so we do nothing until BNF breaches 36200 on the upside.
