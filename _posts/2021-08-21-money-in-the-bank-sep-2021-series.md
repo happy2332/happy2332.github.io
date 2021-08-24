@@ -1,16 +1,17 @@
 ---
 layout: post
 title: Money in the bank Sep 2021 series
-<!-- subtitle: Each post also has a subtitle -->
+subtitle: Each post also has a subtitle
 <!-- gh-repo: daattali/beautiful-jekyll -->
 <!-- gh-badge: [star, fork, follow] -->
-tags: [momey-in-the-bank, sep2021]
+tags: [money-in-the-bank, sep2021]
 comments: true
 ---
 
+
 We inititated our Sep 2021 series on Friday, Aug 20, 2021 at around 11:08 AM. Banknifty was trading at around 35000, HDFCBANK at 1502, ICICIBANK at 678, and SBIN at 409.
 So we sold 1 lot of 2-3% away OTM puts for three banks, and to hedge them, we bought 1 lot of near ATM Banknifty Put. Following shows the trades taken.
-![mib_entry_aug_20_2021](https://github.com/happy2332/happy2332.github.io/blob/d9040db1ee3a810afbd886fec6738658a70bf560/_posts/figs/mib_entry_aug_20_2021.png)
+![mib_entry_aug_20_2021](figs/mib_entry_aug_20_2021.png)
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
