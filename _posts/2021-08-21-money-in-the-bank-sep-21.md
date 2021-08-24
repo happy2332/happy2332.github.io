@@ -13,6 +13,6 @@ So we sold 1 lot of 2-3% away OTM puts for three banks, and to hedge them, we bo
 
 We have total credit of Rs. 28257.50. At the end of the day, here was the situation:
 
-![mib_status_aug_20_2021](figs/mib_status_aug_20_2021.jpg)
+![mib_status_aug_20_2021](../assets/img/mib_status_aug_20_2021.jpg)
 
 Let's see what Monday brings us.
