@@ -6,7 +6,7 @@ comments: true
 ---
 
 ### Aug 26, 2021
-BNF is moving in a range. Today BNF made a low and high of 35411 and 35785. When it crossed 36200 or 34700, then only we will shift the calendars. For now, our trades look liked this at the closing of the day.
+BNF is moving in a range. Today BNF made a low and high of 35411 and 35785 respectively. When it crosses 36200 or 34700, then only we will shift the calendars. For now, our trades look liked this at the closing of the day.
 <p style="text-align:center;"><img src="../assets/img/dd_status_aug_26_2021.jpeg" width="400px"/></p>
 
 ### Aug 24, 2021
