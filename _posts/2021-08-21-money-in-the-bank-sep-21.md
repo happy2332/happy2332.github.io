@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Money in the bank Sep 2021 series
+title: Money in the Bank Sep 2021 Series
 tags: [Money in the bank, Sep2021]
 comments: true
 ---
