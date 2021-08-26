@@ -6,7 +6,7 @@ comments: true
 ---
 
 ### Aug 26, 2021
-Today was weekly as well as monthly expiry. Expiries recently have been rangebound and so was today. BNF made a low of 35411 for a very short time, and then mostly remain around 35700 to end with 35617.55. Two of the three stocks (HDFCBANK and SBIN) were losers, and so our MTM profit was bound to decrease. At the close of the market, HDFCBANK at 1554.80, ICICIBANK at 698.80, and SBIN at 410.75. Our MTM profit reduced to Rs. 14302.5.
+Today was weekly as well as monthly expiry. Expiries recently have been rangebound and so was today. BNF made a low of 35411 for a very short time, and then mostly remained around 35700 to end with 35617.55. Two of the three stocks (HDFCBANK and SBIN) were losers, and so our MTM profit was bound to decrease. At the close of the market, HDFCBANK closed at 1554.80, ICICIBANK at 698.80, and SBIN at 410.75. Our MTM profit reduced to Rs. 14302.5.
 
 ![mib_status_aug_26_2021](../assets/img/mib_status_aug_26_2021.jpg)
 ---
