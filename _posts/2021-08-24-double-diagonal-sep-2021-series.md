@@ -6,7 +6,7 @@ comments: true
 ---
 
 ### Aug 30, 2021
-Today we had to adjust the trades, and not just one leg, but both the legs. The idea was to shift puts closer as BNF touches 36000, and keep CE as it is until it reaches 36500. But boy, it made a high of 35398.45, so I decided to shift calls as well. Due to this shifting, and slippages (yes there are slippages in OCT trades), we are currently in notional loss. But we stay with the trades. Now our next shifting will be only when market touches 37000 or 35800. In the payoff graph, we are again in the middle, and our goal is to keep in middle as long as we can.
+Today we had to adjust the trades, and not just one leg, but both the legs. The idea was to shift puts closer as BNF touches 36000, and keep CE as it is until it reaches 36500. But boy, it made a high of 35398.45, so I decided to shift calls as well. So when BNF touched 36000, I only shifted Sep34500PE to Sep35000PE (keeping everything as same). But later, I shifted Sep35000PE to Sep35500PE, and also shifted Oct34000PE to Oct34500PE. On call side, we shifted Sep36500CE to Sep37000CE and Oct37000CE to Oct38000CE. Due to this shifting, and slippages (yes there are slippages in OCT trades), we are currently in notional loss. But we stay with the trades. Now our next shifting will be only when market touches 37000 or 35800. In the payoff graph, we are again in the middle, and our goal is to keep in middle as long as we can.
 <p style="text-align:center;"><img src="../assets/img/dd_status_aug_30_2021.jpeg" width="500px"/></p>
 
 <p style="text-align:center;"><img src="../assets/img/dd_payoff_aug_30_2021.jpeg" width="500px"/></p>
