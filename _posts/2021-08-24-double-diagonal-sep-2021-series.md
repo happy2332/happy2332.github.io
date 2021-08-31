@@ -4,6 +4,12 @@ title: Double Diagonal Sep 2021 series
 tags: [Double Diagonal, Sep2021]
 comments: true
 ---
+### Aug 31, 2021
+So Banknifty didn't do much today, however, I was not liking the fact that our bought hedge on CE side (Oct21 38000CE) has lesser premium (Rs. 456.1) than its corresponding sold call (Sep21 37000CE, having premium of Rs. 495.8). Our premise in this strategy is that hedged strikes must have greater premium than sold strikes. So I wanted to correct it. Now Oct options are not very liquid currently, and so I had to search for liquid options. It was a poor execution from my side in doing so, and faced some slippages. Anyways, our trade is stable now, and we are in the middle of the payoff graph, having breakevens of 35059 and 38101. So we don't intend to do anything until BNF touches 35500 or 37500. 
+
+Positions             |  Payoff Graph
+:-------------------------:|:-------------------------:
+![](../assets/img/dd_status_aug_31_2021.jpg)  |  ![](../assets/img/dd_payoff_aug_31_2021.jpg)
 
 ### Aug 30, 2021
 Today we had to adjust the trades, and not just one leg, but both the legs. The idea was to shift puts closer as BNF touches 36000, and keep CE as it is until it reaches 36500. But boy, it made a high of 35398.45, so I decided to shift calls as well. So when BNF touched 36000, I only shifted Sep34500PE to Sep35000PE (keeping everything as same). But later, I shifted Sep35000PE to Sep35500PE, and also shifted Oct34000PE to Oct34500PE. On call side, we shifted Sep36500CE to Sep37000CE and Oct37000CE to Oct38000CE. Due to this shifting, and slippages (yes there are slippages in OCT trades), we are currently in notional loss. But we stay with the trades. Now our next shifting will be only when market touches 37000 or 35800. In the payoff graph, we are again in the middle, and our goal is to keep in middle as long as we can.
