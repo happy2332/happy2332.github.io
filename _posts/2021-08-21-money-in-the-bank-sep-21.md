@@ -5,6 +5,11 @@ tags: [Money in the bank, Sep2021]
 comments: true
 ---
 
+### Sep 2, 2021
+Today was weekly expiry for first week of September 2021. BNF started with a good positive sentiment, and continued its way up there to gain almost 270 points (+0.70%), and closed at 36831.30. These upmoves are exactly what we require in our strategy. In our 3 banking stocks, HDFCBANK and ICICIBANK moved up by 0.63% and 0.73% to close at 1589.00 and 725.15 respectively. SBIN was relatively sedate today with a minor downmove by 0.03% and closed at 429.75. Our MTM profit is now Rs. 6665. We stay with the trades.
+
+![mib_status_sep_02_2021](../assets/img/mib_status_sep_02_2021.jpg)
+
 ### Sep 1, 2021
 #Notradingday was trending in stock market for so many days. Many prominent traders didn't create any new positions today, however, there was no change in the overall volumes traded. BNF made an inverted V shaped move today. It opened on a flatter note, went up up up till 36997 and then returned from there to close at 36574.30. Similar was the case with our 3 banking stocks, so ultimately, they closed at almost where they were yesterday. Our MTM profit stands at Rs. 6220. We continue to stay with the trades.
 
