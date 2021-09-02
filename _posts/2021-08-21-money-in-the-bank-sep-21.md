@@ -5,10 +5,15 @@ tags: [Money in the bank, Sep2021]
 comments: true
 ---
 
+### Sep 1, 2021
+#Notradingday was trending in stock market for so many days. Many prominent traders didn't create any new positions today, however, there was no change in the overall volumes traded. BNF made an inverted V shaped move today. It opened on a flatter note, went up up up till 36997 and then returned from there to close at 36574.30. Similar was the case with our 3 banking stocks, so ultimately, they closed at almost where they were yesterday. Our MTM profit stands at Rs. 6220. We continue to stay with the trades.
+
+![mib_status_sep_01_2021](../assets/img/mib_status_sep_01_2021.jpg)
+
 ### Aug 31, 2021
 A really choppy day for BNF. It went all over the place (probably doing SL hunting) and ended with 76 points gain (0.21%) to close at 36424. The three banking stocks were leaders having gains of 0.84% (HDFCBANK), 0.76% (ICICIBANK), and 0.79% (SBIN) to close at 1581.40, 719.05 and 426.05 respectively. Although BNF moved up, our bought put actually gained some price due to massive 9.01% increase in India Vix (which came due to Nifty breaking 17k barrier, and moving into unchartered territory). Our current MTM profit stands at Rs. 6508.75. We still keep our trades as it is and wait for profit to cross Rs. 9k before booking it.
 
-![mib_status_aug_31_2021_1](../assets/img/mib_status_aug_31_2021.jpg)
+![mib_status_aug_31_2021](../assets/img/mib_status_aug_31_2021.jpg)
 
 ### Aug 30, 2021
 Sometimes Mondays are dark, but this Monday brought sunshine to BNF and its stocks. After opening 150 points gap-up, BNF went *up up up*, and finally gained 2.02% to close at 36347.65. Our 3 stocks also had party and gained 1.28% (HDFCBANK), 1.99% (ICICIBANK), and 2.49% (SBIN) to close at 1568.25, 713.65 and 422.7 respectively. It was just a matter of time that our MTM profit crossed Rs. 20k, and we closed our first set of Sepember 2021 series with profit of Rs. 20640 at around 12 noon. 
