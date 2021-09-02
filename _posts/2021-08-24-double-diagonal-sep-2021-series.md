@@ -6,6 +6,7 @@ comments: true
 ---
 ### Sep 02, 2021
 Today was weekly expiry for first week of September 2021. Banknifty moved 0.70% up to close at 36831.30. Finally, we are in some profit. Not great, but we will get better hopefully. We stay with the trade.
+
 Positions             |  Payoff Graph
 :-------------------------:|:-------------------------:
 ![](../assets/img/dd_status_sep_02_2021.jpg)  |  ![](../assets/img/dd_payoff_sep_02_2021.jpg)
