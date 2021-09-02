@@ -4,6 +4,19 @@ title: Double Diagonal Sep 2021 series
 tags: [Double Diagonal, Sep2021]
 comments: true
 ---
+### Sep 02, 2021
+Today was weekly expiry for first week of September 2021. Banknifty moved 0.70% up to close at 36831.30. Finally, we are in some profit. Not great, but we will get better hopefully. We stay with the trade.
+Positions             |  Payoff Graph
+:-------------------------:|:-------------------------:
+![](../assets/img/dd_status_sep_02_2021.jpg)  |  ![](../assets/img/dd_payoff_sep_02_2021.jpg)
+
+### Sep 01, 2021
+BNF didn't reach our thresholds we selected for adjustments. It reached 36997 at one point, but we will not make any adjustment until it touches 37500. Our MTM is still in loss, but we will get into profit once market becomes rangebound for some days.
+
+Positions             |  Payoff Graph
+:-------------------------:|:-------------------------:
+![](../assets/img/dd_status_sep_01_2021.jpg)  |  ![](../assets/img/dd_payoff_sep_01_2021.jpg)
+
 ### Aug 31, 2021
 So Banknifty didn't do much today, however, I was not liking the fact that our bought hedge on CE side (Oct21 38000CE) has lesser premium (Rs. 456.1) than its corresponding sold call (Sep21 37000CE, having premium of Rs. 495.8). Our premise in this strategy is that hedged strikes must have greater premium than sold strikes. So I wanted to correct it. Now Oct options are not very liquid currently, and so I had to search for liquid options. It was a poor execution from my side in doing so, and faced some slippages. Anyways, our trade is stable now, and we are in the middle of the payoff graph, having breakevens of 35059 and 38101. So we don't intend to do anything until BNF touches 35500 or 37500. 
 
